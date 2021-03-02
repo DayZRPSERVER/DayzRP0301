@@ -1029,8 +1029,6 @@
 	<!--START OF ZOMBIES  -->
 	<!-- ARMY -->
 	<type name="ZmbM_PatrolNormal_Autumn">
-		<cargo preset="foodzombi" />
-		<cargo preset="foodArmy" />
 		<cargo preset="ammopatrol" />
 		<cargo preset="ammosoldier1" />
 		<attachments preset="glassesArmy" />
@@ -1039,9 +1037,7 @@
 		<attachments preset="vestsArmy" />
 	</type>
 	<type name="ZmbM_PatrolNormal_Flat">
-		<cargo preset="foodzombi" />
 		<cargo preset="ammosoldier1" />
-		<cargo preset="foodArmy" />
 		<cargo preset="ammopatrol" />
 		<attachments preset="glassesArmy" />
 		<attachments preset="hatsArmy" />
@@ -1049,9 +1045,7 @@
 		<attachments preset="vestsArmy" />
 	</type>
 	<type name="ZmbM_PatrolNormal_PautRev">
-		<cargo preset="foodzombi" />
 		<cargo preset="sidemag" />
-		<cargo preset="foodArmy" />
 		<cargo preset="ammopatrol" />
 		<attachments preset="glassesArmy" />
 		<attachments preset="hatsArmy" />
@@ -1059,8 +1053,6 @@
 		<attachments preset="vestsArmy" />
 	</type>
 	<type name="ZmbM_PatrolNormal_Summer">
-		<cargo preset="foodzombi" />
-		<cargo preset="foodArmy" />
 		<cargo preset="sidemag" />
 		<cargo preset="ammopatrol" />
 		<attachments preset="glassesArmy" />
@@ -1069,11 +1061,10 @@
 		<attachments preset="vestsArmy" />
 	</type>
 	<type name="ZmbM_SoldierNormal">
-		<cargo preset="foodzombi" />
 		<cargo preset="grenades" />
 		<cargo preset="sidemag" />
 		<cargo preset="foodArmy" />
-		<cargo preset="ammosoldier" />
+		<cargo preset="ammosoldier1" />
 		<attachments preset="glassesArmy" />
 		<attachments preset="hatsArmy" />
 		<attachments preset="bagsArmy" />
