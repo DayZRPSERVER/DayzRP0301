@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory-type>
     <territory color="4291611852">
+		<zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="3882.35" z="11874.17" r="180" d="2"/>
+		<zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="4175.95" z="11831.39" r="180" d="2"/>
+		<zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="4026.23" z="11975.28" r="40" d="2"/>
+		<zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="3732.63" z="11588.34" r="180" d="2"/><!--NWAF N-->
+		<zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="3940.68" z="11364.72" r="180" d="2"/><!--NWAF N-->
+		<zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="4267.34" z="11290.84" r="180" d="2"/><!--NWAF N-->
     	<zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12161" z="13839" r="300" d="2"/><!--polana-->
     	<zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12367" z="14295" r="100" d="2"/><!--Novodomitorovsk W-->
         <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="2595" z="5947.5" r="60" d="2"/>
