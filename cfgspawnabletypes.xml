@@ -19,12 +19,11 @@
 	<type name="SmallProtectorCase"><hoarder />	</type>
 	<type name="UndergroundStash"><hoarder />	</type>
 	<type name="WoodenCrate">
-		<cargo chance="1"><item name="Bear_Beige" /></cargo>	
-		<cargo chance="1"><item name="Bear_Pink" /></cargo>	
-		<cargo chance="1"><item name="Bear_Dark" /></cargo>
-		<cargo chance="1"><item name="Bear_White" /></cargo>
-		<cargo chance="1"><item name="Bear_White" /></cargo>
-		<cargo chance="1"><item name="HumanSteakMeat" /></cargo>
+		<cargo chance="1"><item name="CannabisSeedsPack" /></cargo>
+		<cargo chance="1"><item name="CannabisSeedsPack" /></cargo>
+		<cargo chance="1"><item name="CannabisSeedsPack" /></cargo>
+		<cargo chance="1"><item name="CannabisSeedsPack" /></cargo>	
+		<cargo chance="1"><item name="Sword" /></cargo>	
 	</type>
 
 	<!-- 軍系アイテムTier1 -->
@@ -124,6 +123,8 @@
 		<cargo preset="ammobox1" />	
 	</type>
 	<type name="AmmoBox">
+		<cargo preset="ammobox1" />
+		<cargo preset="ammobox1" />
 		<cargo preset="ammobox1" />
 		<cargo preset="ammobox1" />
 		<cargo preset="ammobox1" />
