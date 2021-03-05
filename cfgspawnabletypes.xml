@@ -32,7 +32,7 @@
 		<cargo preset="vestsArmy2" />
 		<cargo preset="sidearm2" />
 		<cargo preset="ammobox1" />
-		<cargo chance="1"><item name="VSS" />
+		<cargo chance="0.01"><item name="VSS" />
 			<attachments chance="1"><item name="KashtanOptic" chance="1.00" /></attachments>
 			<attachments chance="1"><item name="Mag_VSS_10Rnd" chance="1.00" /></attachments>
 		</cargo>
