@@ -27,7 +27,7 @@
 			<item name="BallisticHelmet_Black" chance="0.2" />
 			<item name="BallisticHelmet_Green" chance="0.2" />
 			<item name="BallisticHelmet_UN" chance="0.5" />
-			<item name="PumpkinHelmet" chance="0.1 />
+			<item name="PumpkinHelmet" chance="0.1" />
 		</cargo>
 		<cargo chance="0.4" name="vestsArmy1">
 			<item name="PlateCarrierVest" chance="1" />
