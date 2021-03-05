@@ -48,42 +48,42 @@
         <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="6464.38" z="3076.25" r="120"/>
     </territory>
     <territory color="1124502272">
-	<zone name="InfectedArmy" smin="0" smax="2" dmin="2" dmax="6" x="4661" z="10045" r="120"/><!--Wood2-->
-	<zone name="InfectedArmy" smin="0" smax="2" dmin="2" dmax="6" x="3761" z="11032" r="70"/><!--Wood2-->
-	<zone name="InfectedArmy" smin="0" smax="2" dmin="2" dmax="6" x="4402" z="11081" r="70"/><!--Wood2-->
-	<zone name="InfectedArmy" smin="0" smax="2" dmin="2" dmax="6" x="3711" z="11306" r="70"/><!--Wood2-->
-	<zone name="InfectedArmy" smin="0" smax="2" dmin="2" dmax="6" x="4036" z="10322" r="70"/><!--Wood2-->
-	<zone name="InfectedArmy" smin="0" smax="2" dmin="1" dmax="6" x="3917" z="10491" r="70"/><!--Wood2-->
-	<zone name="InfectedArmy" smin="0" smax="2" dmin="1" dmax="6" x="3905" z="10530" r="70"/><!--Wood2-->
-	<zone name="InfectedArmy" smin="0" smax="0" dmin="1" dmax="6" x="4013" z="10611" r="90"/><!--Wood2-->
-	<zone name="InfectedArmy" smin="2" smax="3" dmin="1" dmax="6" x="3860" z="10898" r="100"/><!--Wood2-->
-	<zone name="InfectedArmy" smin="0" smax="2" dmin="1" dmax="6" x="4126" z="10237" r="40"/><!--Wood2-->
-	<zone name="InfectedArmy" smin="0" smax="2" dmin="1" dmax="2" x="4634" z="11011" r="20"/><!--Wood-->
-	<zone name="InfectedArmy" smin="0" smax="2" dmin="1" dmax="3" x="4708" z="10910" r="50"/><!--Wood-->
-	<zone name="InfectedArmy" smin="0" smax="2" dmin="1" dmax="3" x="4805" z="10839" r="30"/><!--Wood-->
-	<zone name="InfectedArmy" smin="0" smax="2" dmin="1" dmax="3" x="4629" z="10638" r="80"/><!--Wood2-->
-	<zone name="InfectedArmy" smin="0" smax="2" dmin="2" dmax="4" x="5031" z="9630" r="80"/><!--Wood-->
-	<zone name="InfectedArmy" smin="0" smax="2" dmin="2" dmax="6" x="4871" z="9521" r="80"/><!--Wood-->
-	<zone name="InfectedArmy" smin="0" smax="0" dmin="0" dmax="2" x="4731" z="10345" r="10"/><!--Wood2-->
-	<zone name="InfectedArmy" smin="0" smax="1" dmin="2" dmax="5" x="4791" z="10145" r="80"/><!--Wood2-->
-	<zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="5" x="4814" z="10429" r="30"/><!--Wood-->
-	<zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="5" x="4942" z="10092" r="100"/><!--Wood2-->
-	<zone name="InfectedArmy" smin="0" smax="1" dmin="1" dmax="5" x="5147" z="10201" r="80"/><!--Wood2-->
-	<zone name="InfectedArmy" smin="0" smax="0" dmin="1" dmax="5" x="5318" z="10064" r="40"/><!--Wood2-->
+	<zone name="InfectedArmy" smin="0" smax="2" dmin="10" dmax="10" x="4661" z="10045" r="120"/><!--Wood2-->
+	<zone name="InfectedArmy" smin="0" smax="2" dmin="10" dmax="10" x="3761" z="11032" r="70"/><!--Wood2-->
+	<zone name="InfectedArmy" smin="0" smax="2" dmin="10" dmax="10" x="4402" z="11081" r="70"/><!--Wood2-->
+	<zone name="InfectedArmy" smin="0" smax="2" dmin="10" dmax="10" x="3711" z="11306" r="70"/><!--Wood2-->
+	<zone name="InfectedArmy" smin="0" smax="2" dmin="10" dmax="10" x="4036" z="10322" r="70"/><!--Wood2-->
+	<zone name="InfectedArmy" smin="0" smax="2" dmin="10" dmax="10" x="3917" z="10491" r="70"/><!--Wood2-->
+	<zone name="InfectedArmy" smin="0" smax="2" dmin="10" dmax="10" x="3905" z="10530" r="70"/><!--Wood2-->
+	<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="10" x="4013" z="10611" r="90"/><!--Wood2-->
+	<zone name="InfectedArmy" smin="2" smax="3" dmin="10" dmax="10" x="3860" z="10898" r="100"/><!--Wood2-->
+	<zone name="InfectedArmy" smin="0" smax="2" dmin="10" dmax="10" x="4126" z="10237" r="40"/><!--Wood2-->
+	<zone name="InfectedArmy" smin="0" smax="2" dmin="10" dmax="10" x="4634" z="11011" r="20"/><!--Wood-->
+	<zone name="InfectedArmy" smin="0" smax="2" dmin="10" dmax="10" x="4708" z="10910" r="50"/><!--Wood-->
+	<zone name="InfectedArmy" smin="0" smax="2" dmin="10" dmax="10" x="4805" z="10839" r="80"/><!--Wood-->
+	<zone name="InfectedArmy" smin="0" smax="2" dmin="10" dmax="10" x="4629" z="10638" r="80"/><!--Wood2-->
+	<zone name="InfectedArmy" smin="0" smax="2" dmin="10" dmax="10" x="5031" z="9630" r="80"/><!--Wood-->
+	<zone name="InfectedArmy" smin="0" smax="2" dmin="10" dmax="10" x="4871" z="9521" r="80"/><!--Wood-->
+	<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="10" x="4731" z="10345" r="10"/><!--Wood2-->
+	<zone name="InfectedArmy" smin="0" smax="1" dmin="10" dmax="10" x="4791" z="10145" r="80"/><!--Wood2-->
+	<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="10" x="4814" z="10429" r="80"/><!--Wood-->
+	<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="10" x="4942" z="10092" r="100"/><!--Wood2-->
+	<zone name="InfectedArmy" smin="0" smax="1" dmin="10" dmax="10" x="5147" z="10201" r="80"/><!--Wood2-->
+	<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="10" x="5318" z="10064" r="80"/><!--Wood2-->
 	<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="10" x="5140" z="10048" r="80"/><!--Wood2-->
-	<zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="5" x="5081" z="9942" r="80"/><!--Wood2-->
-	<zone name="InfectedArmy" smin="0" smax="1" dmin="2" dmax="5" x="5228" z="9942" r="80"/><!--Wood2-->
-	<zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="5" x="5380" z="9750" r="80"/><!--Wood-->
-	<zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="5" x="5317" z="9718" r="80"/><!--Wood2-->
-	<zone name="InfectedArmy" smin="0" smax="1" dmin="2" dmax="5" x="5122" z="9294" r="80"/><!--Wood-->
-	<zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="5" x="5237" z="9700" r="80"/><!--Wood2-->
-	<zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="5" x="5253" z="9600" r="80"/><!--Wood2-->
-	<zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="5" x="5185" z="9523" r="80"/><!--Wood-->
-	<zone name="InfectedArmy" smin="0" smax="1" dmin="2" dmax="5" x="5098" z="9401" r="80"/><!--Wood-->
-	<zone name="InfectedArmy" smin="0" smax="1" dmin="2" dmax="5" x="4974" z="9166" r="80"/><!--Wood-->
-	<zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="5" x="4792" z="9295" r="80"/><!--Wood-->
-	<zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="5" x="4681" z="9537" r="80"/><!--Wood-->
-	<zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="5" x="4426" z="9634" r="80"/><!--Wood--> 
+	<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="10" x="5081" z="9942" r="80"/><!--Wood2-->
+	<zone name="InfectedArmy" smin="0" smax="1" dmin="10" dmax="10" x="5228" z="9942" r="80"/><!--Wood2-->
+	<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="10" x="5380" z="9750" r="80"/><!--Wood-->
+	<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="10" x="5317" z="9718" r="80"/><!--Wood2-->
+	<zone name="InfectedArmy" smin="0" smax="1" dmin="10" dmax="10" x="5122" z="9294" r="80"/><!--Wood-->
+	<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="10" x="5237" z="9700" r="80"/><!--Wood2-->
+	<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="10" x="5253" z="9600" r="80"/><!--Wood2-->
+	<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="10" x="5185" z="9523" r="80"/><!--Wood-->
+	<zone name="InfectedArmy" smin="0" smax="1" dmin="10" dmax="10" x="5098" z="9401" r="80"/><!--Wood-->
+	<zone name="InfectedArmy" smin="0" smax="1" dmin="10" dmax="10" x="4974" z="9166" r="80"/><!--Wood-->
+	<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="10" x="4792" z="9295" r="80"/><!--Wood-->
+	<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="10" x="4681" z="9537" r="80"/><!--Wood-->
+	<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="10" x="4426" z="9634" r="80"/><!--Wood--> 
 		<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="10" x="4063.29" z="11645.1" r="80"/> <!-- Far N of NWAF Compound by Forests-->
 		<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="10" x="5368.35" z="9884.52" r="80"/> <!-- SE NWAF Boot Camp course-->
 		<zone name="InfectedArmy" smin="8" smax="8" dmin="10" dmax="14" x="4627.5" z="10492.5" r="80"/> <!-- NWAF ATC-->
