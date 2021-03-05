@@ -3,7 +3,7 @@
     <event name="Staticshop1"><nominal>1</nominal><min>1</min><max>1</max><lifetime>3888000</lifetime>
         <restock>0</restock><saferadius>0</saferadius><distanceradius>0</distanceradius><cleanupradius>100</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="0"/><position>fixed</position><limit>mixed</limit>
-        <active>0</active><children><child lootmax="2" lootmin="1" max="1" min="1" type="Land_Workshop1"/></children></event>
+        <active>1</active><children><child lootmax="2" lootmin="1" max="1" min="1" type="Land_Workshop1"/></children></event>
     <event name="Staticheli1"><nominal>1</nominal><min>1</min><max>1</max><lifetime>3888000</lifetime>
         <restock>0</restock><saferadius>0</saferadius><distanceradius>0</distanceradius><cleanupradius>100</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="0"/><position>fixed</position><limit>mixed</limit>
