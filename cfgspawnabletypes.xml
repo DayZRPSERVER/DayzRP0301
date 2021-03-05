@@ -21,8 +21,8 @@
 	<type name="WoodenCrate">
 		<cargo chance="1"><item name="CannabisSeedsPack" /></cargo>
 		<cargo chance="1"><item name="CannabisSeedsPack" /></cargo>
-		<cargo chance="1"><item name="CannabisSeedsPack" /></cargo>
-		<cargo chance="1"><item name="CannabisSeedsPack" /></cargo>	
+		<cargo chance="1"><item name="Sword" /></cargo>
+		<cargo chance="1"><item name="Sword" /></cargo>	
 		<cargo chance="1"><item name="Sword" /></cargo>	
 	</type>
 
