@@ -109,17 +109,17 @@
 	</type>
 	<type name="WaterproofBag_Green">
 		<cargo chance="1"><item name="BandageDressing" /></cargo>	
-		<cargo chance="0.4"><item name="WeaponCleaningKit" /></cargo>
+		<cargo chance="0.3"><item name="WeaponCleaningKit" /></cargo>
 		<cargo preset="ammobox1" />	
 	</type>
 	<type name="WaterproofBag_Orange">
 		<cargo chance="1"><item name="BandageDressing" /></cargo>	
-		<cargo chance="0.4"><item name="WeaponCleaningKit" /></cargo>
+		<cargo chance="0.3"><item name="WeaponCleaningKit" /></cargo>
 		<cargo preset="ammobox1" />	
 	</type>
 	<type name="WaterproofBag_Yellow">
 		<cargo chance="1"><item name="BandageDressing" /></cargo>	
-		<cargo chance="0.4"><item name="WeaponCleaningKit" /></cargo>
+		<cargo chance="0.3"><item name="WeaponCleaningKit" /></cargo>
 		<cargo preset="ammobox1" />	
 	</type>
 	<type name="AmmoBox">
@@ -317,9 +317,6 @@
 		<cargo chance="1.00">
 			<item name="NailBox" chance="1.00" />
 		</cargo>
-	</type>
-	<type name="Flashlight"><!-- ヘッドライト関係バッテリー装備 -->
-		<cargo preset="battery" />
 	</type>
 	<type name="Flashlight"><!-- ヘッドライト関係バッテリー装備 -->
 		<cargo preset="battery" />
