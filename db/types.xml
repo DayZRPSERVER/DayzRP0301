@@ -80,7 +80,7 @@
         <value name="Tier3"/>
     </type>
     <type name="AK74_Green">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>0</min>
