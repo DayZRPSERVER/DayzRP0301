@@ -169,7 +169,7 @@
 				<item name="MetalWire" chance="0.4" />
 				<item name="Rope" chance="0.3" />
 		</cargo>
-		<cargo chance="0.7" name="battery"><!-- バッテリー装備用 -->
+		<cargo chance="1" name="battery"><!-- バッテリー装備用 -->
 				<item name="Battery9V" chance="1" />
 		</cargo>
 		<attachments chance="0.3" name="myhats1"><!-- ヘルメットTier1 -->
