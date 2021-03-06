@@ -135,21 +135,21 @@
 				<item name="AmmoBox_12gaSlug_10Rnd" chance="0.2" /><!--  SG  -->
 
 		</cargo>
-		<cargo chance="0.2" name="ammosoldier1"><!-- 軍施設向け -->
+		<cargo chance="0.1" name="ammosoldier1"><!-- 軍施設向け -->
 				<item name="AmmoBox_762x39_20Rnd" chance="0.5" /><!--  AKM CZ SKS -->
 				<item name="AmmoBox_556x45_20Rnd" chance="0.2" /><!--  101 M4 -->
 				<item name="AmmoBox_762x54_20Rnd" chance="0.1" /><!--  VSD  -->
 				<item name="AmmoBox_308Win_20Rnd" chance="0.1" /><!--  LAR M70  -->		
 				<item name="AmmoBox_9x39_20Rnd" chance="0.1" /><!--  VSS  -->
 		</cargo>
-		<cargo chance="0.2" name="ammosoldier"><!-- 軍施設向け -->
+		<cargo chance="0.1" name="ammosoldier"><!-- 軍施設向け -->
 				<item name="AmmoBox_762x39_20Rnd" chance="0.4" /><!--  AKM CZ SKS -->
 				<item name="AmmoBox_556x45_20Rnd" chance="0.4" /><!--  101 M4 -->
 				<item name="AmmoBox_762x54_20Rnd" chance="0.1" /><!--  VSD  -->
 				<item name="AmmoBox_308Win_20Rnd" chance="0.05" /><!--  LAR M70  -->		
 				<item name="AmmoBox_9x39_20Rnd" chance="0.05" /><!--  VSS  -->
 		</cargo>
-		<cargo chance="0.3" name="sidemag"><!-- 軍ゾンビ所持用 -->
+		<cargo chance="0.15" name="sidemag"><!-- 軍ゾンビ所持用 -->
 				<item name="AmmoBox_380_35Rnd" chance="0.1" />
 				<item name="AmmoBox_9x19_25Rnd" chance="0.1" />
 				<item name="AmmoBox_762x39_20Rnd" chance="0.1" />
