@@ -17,10 +17,8 @@
         <tag name="ground"/>
     </tags>
     <usageflags>
-		<usage name="Parts"/>
         <usage name="Military"/>
         <usage name="Police"/>
-		<usage name="Policecar"/>
         <usage name="Medic"/>
         <usage name="Firefighter"/>
         <usage name="Industrial"/>
@@ -33,6 +31,8 @@
         <usage name="School"/>
         <usage name="Prison"/>
         <usage name="Lunapark"/>
+        <usage name="Policecar"/>
+        <usage name="Parts"/>
     </usageflags>
     <valueflags>
         <value name="Tier1"/>
